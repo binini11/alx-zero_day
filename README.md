@@ -1,1 +1,1 @@
-i updated my read me file throu github webpage
+i updated my read me file through github webpage
